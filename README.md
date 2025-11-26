@@ -99,3 +99,8 @@ Welcome to Lab 9! In this lab, you will automate the build, test, and deployment
 4. **Validate Deployment**:
    - Use kubectl commands to check the deployment status:
 `kubectl get pods` and `kubectl get services`
+
+---
+## Submissions
+Submit links to your forked repositories in brightspace submission. 
+> **Note:** GitHub Actions output will be used for marking. 
